@@ -1,4 +1,4 @@
-* German Credit dataset
+# German Credit dataset
 
 This dataset (https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29) containes 1000 rows of credit data and the rating "good" and "bad" for each row.
 
